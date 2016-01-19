@@ -10,6 +10,7 @@ Includes some stuff from [Awesome NodeJS](https://github.com/sindresorhus/awesom
 - [utility](https://github.com/node-modules/utility) - A collection of useful utilities
 - [utilities](https://github.com/mde/utilities/) - A classic collection of JavaScript utilities
 - [utils](https://github.com/jonschlinkert/utils) - Fast, generic JavaScript/node.js utility functions.
+- [mout](https://github.com/mout/mout) - Modular JavaScript Utilities
 
 ## array manipulation
 
@@ -88,3 +89,71 @@ Includes some stuff from [Awesome NodeJS](https://github.com/sindresorhus/awesom
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 
+#servers and server frameworks
+- [http-server](https://github.com/indexzero/http-server) - zero config simple http server
+- [express](https://github.com/strongloop/express/) - express
+- [sails](http://sailsjs.org/) - Built For developers by seahorses
+
+#beautifiers
+- [esformatter](https://github.com/millermedeiros/esformatter) - ECMAScript code beautifier/formatter
+- [jscs](https://github.com/jscs-dev/node-jscs/) - JavaScript Code Style checker 
+- [js-beautifier](https://www.npmjs.com/package/js-beautify) - jsbeautifier.org for node
+- [codepainter](https://www.npmjs.com/package/codepainter) - A JavaScript beautifier that can both infer coding style and transform code to reflect that style.
+
+#operating system utilities
+
+- [wifi-password](https://github.com/kevva/wifi-password) - Get current wifi password
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the OS X Dark Mode from the command-line
+
+# functional programming
+
+- [folktale](https://github.com/folktale) - Generic Functional Programming in JS / Javascript meets DRY
+- [mori](http://swannodette.github.io/mori/) A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+
+#useful utilities
+
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files
+- [trash](https://github.com/sindresorhus/trash) - Send to trash
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty your trash
+- [public-ip](https://github.com/sindresorhus/public-ip) - find your public IP
+- [vtop](https://github.com/MrRio/vtop) - More better than regular top - A graphical activity monitor for the command line
+- [bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
+- [pjs](https://github.com/danielstjules/pjs) - Pipeable Javascript
+
+#git
+- [js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
+
+
+#internet stuffs
+[is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down
+[torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
+[omelette](https://github.com/f/omelette) - Simple Autocompletion Helper for Node
+[http-teapot](https://www.npmjs.com/package/http-teapot) - Add teapot route  
+[htcpcp](https://github.com/stephen/node-htcpcp) - Hyper Text Coffee Pot Control Protocol implemented in node.js
+
+#npm
+
+Please refer to [Awesome NPM](https://github.com/sindresorhus/awesome-npm) for more npm utilities
+
+- [npm-user](https://github.com/sindresorhus/npm-user)  - Get user info of a npm user
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm
+- [license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses if you've ever needed to see all the license info for a module and it's dependencies.
+
+# more tools
+
+- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for node & the browser
+- [ReactiveX JS](http://reactivex.io/) - Reactive eXtensions
+
+# IPFS 
+
+"InterPlanetary File System" - a new  P2P hypermedia protocol. For more info on IPFS - https://ipfs.io/docs/getting-started/
+
+
+- [IPFS](https://github.com/ipfs/specs/tree/master/repo) - IPFS JavaScript implementation entry point and roadmap 
+- [ipfs on github](https://github.com/ipfs/ipfs)  -  repo for ipfs 
+- [ipfs-api](https://github.com/ipfs/js-ipfs-api) A client library for the IPFS HTTP API, implemented in JavaScript.
+
+# tutorials how to make nodejs CLI utilities
+- http://cruft.io/posts/node-command-line-utilities/
+- http://mohammedlakkadshaw.com/blog/command_line_apps_in_node.js.html
+- http://javascriptplayground.com/blog/2015/03/node-command-line-tool/
